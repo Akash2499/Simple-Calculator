@@ -1,0 +1,22 @@
+.title{
+   margin-bottom: 10px;
+   text-align:center;
+   width: 210px;
+   color:black;
+   }
+
+input[type="button"]{
+   background-color:red;
+   color: black;
+   width:100%;
+   height:100%;
+   font-size: 20px;
+   font-weight: bold;
+} 
+
+input[type="text"]{
+   font-size: 20px;
+   background-color:yellow;
+   width:100%;
+   height: 100%;
+}
